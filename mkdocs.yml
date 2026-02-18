@@ -1,0 +1,48 @@
+site_name: Dies Irae Wiki
+site_url: https://dies_irae_wiki.io
+theme:
+  logo: assets/icon6.png
+  favicon: assets/favicon.ico
+  name: material
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+  
+  palette:
+    scheme: default
+    primary: white
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - footnotes
+  - def_list
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+
+nav:
+  - Main: 
+    - About: index.md
+    - Magical name: etymology_of_names.md
+  - Glossary:
+    - Terms: glossary/terms.md
+    - Ahnenerbe: glossary/ahnenerbe.md
+    - Ewigkeit: glossary/ewigkeit.md
+    - Degree: glossary/degree.md
+    - Kampfform: glossary/kampfform.md
+    - L∴D∴O: glossary/ldo.md
+
+plugins:
+  - glightbox
