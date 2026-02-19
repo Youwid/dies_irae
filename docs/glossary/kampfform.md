@@ -11,7 +11,7 @@
 
 Среди членов чёрного круглого стола к данном типу относятся: Вильгельм, Шпинне и Шрайбер.
 
-![Fusio type](/assets/kampfform/fusio_type_example.png){ align=left }
+![Fusio type](assets/kampfform/fusio_type_example.png){ align=left }
 
 ## Materialization type
 2) Тип «**Материализации**»
@@ -22,7 +22,7 @@
 
 Среди членов чёрного круглого стола к данном типу относятся: Рейнхард, Беатрис, Элеонора и Тубал Каин.
 
-![Materialization type](/assets/kampfform/materialization_type_example.png){ align=left }
+![Materialization type](assets/kampfform/materialization_type_example.png){ align=left }
 
 ## Deployment type
 3) Тип «**Развертывания и Явления**»
@@ -33,7 +33,7 @@
 
 Среди членов чёрного круглого стола к данном типу относятся: Лиза и Русалка.
 
-![Deployment type](/assets/kampfform/deployment_type_example.png){ align=left }
+![Deployment type](assets/kampfform/deployment_type_example.png){ align=left }
 
 ## Manifest type
 4) Тип «**Особого Проявления**»
@@ -44,7 +44,7 @@
 
 Среди членов чёрного круглого стола к данном типу относятся: Трифа, Макина и Меркурий.
 
-![Manifest type](/assets/kampfform/manifest_type_example.png){ align=left }
+![Manifest type](assets/kampfform/manifest_type_example.png){ align=left }
 
 ### Summary table
 Ниже приведена сводная таблица, классифицирующая формы проявления способностей членов Тринадцатого Ордена Копья Судьбы.
