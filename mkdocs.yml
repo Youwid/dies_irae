@@ -1,7 +1,7 @@
 site_name: Dies Irae Wiki
 site_url: https://youwid.github.io/dies_irae/
 theme:
-  logo: assets/icon6.png
+  logo: assets/Icon6.png
   favicon: assets/favicon.ico
   name: material
 
